@@ -23,6 +23,11 @@ header {
     align-items: center;
 }
 
+.decrease {
+    height: 8vh;
+    width: 4vw;
+}
+
 /* Trabalhando Divs */
 
 div {
@@ -30,6 +35,32 @@ div {
     margin-top: 10px;
     text-align: center;
 }
+
+/* Editando Menu */
+.menu ul{
+    list-style-type: none;
+    padding: 0;
+    line-height: 1;
+  }
+  
+  .menu ul li{
+    text-align: center;
+    display: inline-block;
+    font-size: 2vh;
+  }
+  
+  .menu ul li a{
+    display: block;
+    color: #d9d0cb;
+    text-decoration: none;
+    padding: 15px 10px;
+    text-transform: uppercase;
+  }
+  
+  .menu ul li a:hover{
+    color: #ffffff;
+    background-color: #67422d;
+  }
 
 /* Trabalhando footer */
 
