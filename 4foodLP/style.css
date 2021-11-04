@@ -138,13 +138,55 @@ footer {
 }
 
 .logo-socialmedia{
-  width: 2vw;
-
-    
+  width: 2vw;    
 }
 
 h2{
   width: 100%;
   color: #d9d0cb;
   background-color: #593019;
+}
+
+/* Cadastro */
+
+fieldset {
+  border:0;
+}
+
+input, select, textarea, button {
+  border-radius: 5px;
+}
+
+fieldset .grupo .campo {
+  float: left;
+  margin-right: 1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+  padding: 0.2em;
+  border: 1px solid 
+  box-shadow: 2px 2px 2px (0,0,0,0.2)
+  display: block
+}
+
+.fundoCadastro {
+  background-color: lightgrey;
+  width: 37vw;
+  display: flex;
+  align-items: center;
+  height: 10 vw;
+  
+}
+
+.sobrenome {
+  margin-left: -37px;
+}
+
+input {
+  margin-left: 20px;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
