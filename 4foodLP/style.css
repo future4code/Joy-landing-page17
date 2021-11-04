@@ -37,7 +37,7 @@ header {
   margin-top: 2vh;
 }
 
-#ProdutoEntrega {
+#ProdutoEntrega, #QuemSomos {
   text-align: center;
   margin: 20px 20px 20px 20px;
 }
