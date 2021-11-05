@@ -9,3 +9,8 @@ Um projeto baseado em criar uma Landing Page para uma rede de supermercado ficti
 Aplicamos todas a técnicas que aprendemos ao longo dos módulos para chegar nesse resultado,
 um site responsivo que funciona tanto para mobile quanto para desktop e reúne todas as informações
 relevantes do nosso cliente.
+
+### Link Surge:
+
+https://lonely-leather.surge.sh/
+
